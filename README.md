@@ -1,4 +1,4 @@
-# ADME — Apex Gaming Hub
+# CLADGAMEWORLD —Gaming Hub
 
 A premium gaming-services marketplace for boosting, modding, recovery, top-ups, leveling, rank progression, item farming, unlocks, and game accounts. The experience includes a conversion-focused storefront, searchable game directory, configurable product pages, cart and checkout, customer order tracking, editorial content, support and policy pages, plus an operations dashboard.
 
